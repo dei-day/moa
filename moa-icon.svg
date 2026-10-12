@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="18 18 72 72" width="512" height="512">
+  <title>모아 · 음성 메모 앱 아이콘</title>
+  <desc>테라코타 바탕 위에 음성 파형과 한 줄의 기록을 담은 아이보리 메모지</desc>
+  <!-- Presentation mask only. Android foreground/background layers remain unmasked. -->
+  <defs><clipPath id="mask"><rect x="18" y="18" width="72" height="72" rx="17"/></clipPath></defs>
+  <g clip-path="url(#mask)">
+    <path fill="#AA593F" d="M18 18h72v72H18z"/>
+    <path fill="#F8F4EC" d="M37 29H64L78 43V72Q78 79 71 79H37Q30 79 30 72V36Q30 29 37 29Z"/>
+    <path fill="#E3E5D9" d="M64 29V38Q64 43 69 43H78Z"/>
+    <path fill="none" stroke="#AA593F" stroke-width="3.6" stroke-linecap="round" d="M40 53V59M47 50V62M54 46V66M61 50V62M68 53V59"/>
+    <path fill="none" stroke="#AA593F" stroke-width="2.2" stroke-linecap="round" d="M44 72H64"/>
+  </g>
+</svg>
